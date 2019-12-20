@@ -1,0 +1,6 @@
+So in Exercise 4.8: A Lot of Bricks. You need to create  1 brick object and create 100 suitcases you can do it via arraylist 
+after that put everything in container object.
+
+
+
+IF YOUR ANSWER NOT THE SAME TRY TO MAKE BRICK WEIGH 1 KG not 4KG
